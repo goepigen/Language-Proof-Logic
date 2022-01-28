@@ -1,0 +1,1 @@
+7.2.4.28445macs:Mac OS X10.16SntFC1642382298460D1642382512531S93408Between(c, a, d) & ~Tet(c)/x BackOf(x, a) & /x FrontOf(x, c)FrontOf(a, c) & ~/x (BackOf(x, a) & FrontOf(x, c))/x LeftOf(x, d) % Large(b)/x /y (~Tet(x) & ~Tet(y) & Between(b, x, y))FrontOf(d, b) & LeftOf(d, f)Dodec(e)~/x LeftOf(x, e) | Large(e)s=50630;

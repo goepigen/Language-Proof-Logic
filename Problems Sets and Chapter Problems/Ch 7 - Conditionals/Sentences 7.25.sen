@@ -1,0 +1,3 @@
+7.2.4.28445macs:Mac OS X10.16SntFC1642035337876D1642036414888D1642037276722C1642115261733D1642115345925D1642115356243S178058Tet(a) & Small(a) ~(~Tet(a) | ~Small(a))Tet(a) $ Small(a)~Tet(a) | Small(a) Tet(a) % Small(a)~(~Tet(a) | ~Small(a)) | ~(Tet(a) | Small(a))(Cube(b) & Cube(c)) $ (Small(b) % Small(c))
+; This one is long.  Tranlate the antecedant and 
+; consequent and then combine them using ~ and |.~~(~Cube(b) | ~Cube(c)) | ~(~Small(b) | ~Small(c)) | ~(Small(b) | Small(c))s=77146;

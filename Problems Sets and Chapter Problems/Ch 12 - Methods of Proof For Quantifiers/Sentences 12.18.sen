@@ -1,0 +1,1 @@
+7.2.4.28445macs:Mac OS X10.16SntFC1643007955754D1643008414424S97616@x @y (LeftOf(x,y) $ Larger(x,y))@x (Cube(x) $ Small(x))@x (Tet(x) $ Large(x))@x @y ((Small(x) & Small(y)) $ ~Larger(x,y))@z @w ((Tet(z) & Cube(w)) $ LeftOf(z,w))@z (Medium(z) $ Tet(z))s=42740;
